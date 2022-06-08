@@ -1,0 +1,7 @@
+class Priority{
+
+}
+
+class Queue{
+
+}
